@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am a computer science PhD student working in human-computer interaction. My specific interests revolve around how people interact with and understand complex concepts and information, improving data literacy, and improving developer tooling. I am currently at the [Elicit Lab](https://uicelicitlab.com/), where we investigate how to design the next-generation of human-computer interactions to improve creativity, awareness, and critical thinking.
 
-I graduated with my bachelor's from the University of Wisconsin - Madison, majoring in Computer Science and minoring in Business and Mathematics. I completed my Masters at George Washington University in Data Science.
+I graduated with my bachelor's from the University of Wisconsin - Madison, majoring in Computer Science and minoring in Business and Mathematics. I completed my Masters at George Washington University in Data Science, where worked at the [Hive Lab](https://hivelab.smhs.gwu.edu/) under [Dr. Raja Mazumder](https://smhs.gwu.edu/faculty-research/raja-mazumder-phd), building open source projects aimed at large scale biomedical data harmonization and standardization.
 
 Interests
 ======
