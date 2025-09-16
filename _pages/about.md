@@ -24,7 +24,7 @@ Some things I love:
 - ⛷️ Skiing
 - 🏔️ Mountains
 - 🦆 Animals
-- 🏀 Wisconsin Badgers Basketball
+- 🦡 Wisconsin Badgers
 - 🏀 Kansas Jayhawks
 - 🎾 Tennis
 - 📖 Wikipedia
